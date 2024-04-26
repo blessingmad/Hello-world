@@ -1,6 +1,6 @@
 # Overview
 
-This is my demostration of the Hello World programme. I created it to demostrate thed use of Visual Studio Code, Python and Github intergration.
+This is my demostration of the Hello World programe. I created it to demostrate thed use of Visual Studio Code, Python and Github intergration.
 
 You can watch my software demo here: [Software Demo Video](http://youtube.link.goes.here)
 
